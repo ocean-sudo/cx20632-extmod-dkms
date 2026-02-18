@@ -71,7 +71,6 @@ chmod +x dkms-manager.sh
 
 建议附带：
 
-- `LICENSE`（例如 GPL-2.0-only）
+- `LICENSE`（本仓库已包含 GPL-2.0-only）
 - 变更说明（`CHANGELOG.md`）
 - 受影响机型/Codec 列表
-
